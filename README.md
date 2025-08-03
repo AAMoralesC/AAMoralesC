@@ -7,8 +7,7 @@
 
 📬 ¡Dónde encontrarme?
 
-- [LinkedIn](www.linkedin.com/in/andresmoralesc/) 
-
+- [LinkedIn](https://www.linkedin.com/in/andresmoralesc)
 
 🌟 **Sobre mí**
 
