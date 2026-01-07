@@ -14,7 +14,7 @@
 ```yaml
 
 - 👨‍💻 Trabajo actualmente como Soporte Técnico en Entel Empresas.
-- 🎓 Estudiante de Ingeniería en Informática (a punto de egresar).
+- 🎓 Egresado de Ingeniería en Informática.
 
 
 Me apasiona resolver problemas con tecnología. En este momento estoy desarrollando proyectos personales,
