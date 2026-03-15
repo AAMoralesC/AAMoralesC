@@ -1,47 +1,74 @@
 <div align="center">
-<h1 align="center">🚀 Hola! Soy Andrés ✌🏼</h1>
-<h3 align="center">Estudiante de Ingeniería en Informática | Apasionado por la tecnología y la innovación</h3>
+
+# 🚀 Hola! Soy Andrés Morales 👋
+
+**Ingeniero en Informática | Junior Software Developer**
+
+Apasionado por la tecnología, el desarrollo web y la construcción de soluciones que resuelvan problemas reales.
+
 </div>
 
 ---
 
-📬 ¡Dónde encontrarme?
+## 👨‍💻 Sobre mí
 
-- [LinkedIn](https://www.linkedin.com/in/andresmoralesc)
+- 🎓 **Ingeniero en Informática egresado**
+- 💻 Experiencia desarrollando **aplicaciones web y APIs**
+- 🌱 Actualmente desarrollando **proyectos personales y fortaleciendo habilidades en backend y desarrollo web**
+- 🚀 **Buscando mi primera oportunidad como Junior Developer / Backend Developer**
 
-🌟 **Sobre mí**
+Me interesa especialmente el desarrollo backend, la construcción de APIs y el desarrollo de aplicaciones web que generen impacto real en las personas y los negocios.
 
-```yaml
+---
 
-- 👨‍💻 Trabajo actualmente como Soporte Técnico en Entel Empresas.
-- 🎓 Egresado de Ingeniería en Informática.
+## 🛠️ Tecnologías y herramientas
 
+<div align="center">
 
-Me apasiona resolver problemas con tecnología. En este momento estoy desarrollando proyectos personales,
-aprendiendo herramientas modernas y preparándome para dar el gran salto al mundo tech profesional.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 
-
-```
-<h3 align="center">🎯Stack:</h3>  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP Logo" width="45" height="45" title="Php"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" title="Ts"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 </div>
 
-<br>
+---
+
+## 🚀 Proyectos destacados
+
+🔹 **CiberPyme**  
+Plataforma web para diagnóstico de ciberseguridad en PYMEs.  
+Stack: Laravel · React · MySQL
+
+🔹 **Ferremas**  
+Aplicación web con integración de APIs externas para gestión de productos.
+
+🔹 **CodigoTrauma**  
+Sistema de alertas para emergencias médicas.
+
+---
+
+## 📫 Conecta conmigo
+
+💼 LinkedIn  
+https://www.linkedin.com/in/andresmoralesc
+
+🌐 Portafolio / sitio personal  
+https://moralesdev.cl/
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F79F1F&center=true&vCenter=true&width=400&lines=Siempre+aprendiendo...;Siempre+creando..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F79F1F&center=true&vCenter=true&width=400&lines=Siempre+aprendiendo...;Siempre+creando..." />
 </p>
 
-<!-- Stats de GitHub (para cuando ya tenga proyectos subidos)
+---
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AAMoralesC&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAMoralesC&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAMoralesC&layout=compact&theme=tokyonight"/>
+
 </p>
--->
