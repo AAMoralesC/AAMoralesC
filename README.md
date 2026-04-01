@@ -70,7 +70,4 @@ https://moralesdev.cl/
 
 ---
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAMoralesC&layout=compact&theme=tokyonight"/>
 
-</p>
