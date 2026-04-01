@@ -60,7 +60,7 @@ Sistema de alertas para emergencias médicas.
 https://www.linkedin.com/in/andresmoralesc
 
 🌐 Portafolio / sitio personal  
-https://moralesdev.cl/
+https://moralesdev.cl/  (en construcción 🏗️)
 
 ---
 
