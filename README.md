@@ -12,7 +12,7 @@ Apasionado por la tecnología, el desarrollo web y la construcción de solucione
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 **Ingeniero en Informática egresado**
+- 🎓 **Titulado en Ingeniería en Informática**
 - 💻 Experiencia desarrollando **aplicaciones web y APIs**
 - 🌱 Actualmente desarrollando **proyectos personales y fortaleciendo habilidades en backend y desarrollo web**
 - 🚀 **Buscando mi primera oportunidad como Junior Developer / Backend Developer**
