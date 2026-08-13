@@ -75,10 +75,10 @@ Sistema de alertas en tiempo real para la gestión y respuesta ante emergencias 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <!-- Tarjeta de Estadísticas Generales -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AAMoralesC&show_icons=true&theme=dark&hide_border=true&locale=es&border_radius=8" height="150" alt="Estadísticas de GitHub de AAMoralesC" />
+  <!-- Tarjeta de Estadísticas Generales (Limpia) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=AAMoralesC&show_icons=true&theme=dark&hide_border=true&locale=es&border_radius=8&include_all_commits=true&hide=contribs" height="150" alt="Estadísticas de GitHub de AAMoralesC" />
   <!-- Tarjeta de Lenguajes Principales -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AAMoralesC&layout=compact&theme=dark&hide_border=true&langs_count=6&locale=es&border_radius=8" height="150" alt="Lenguajes principales de AAMoralesC" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AAMoralesC&layout=compact&theme=dark&hide_border=true&langs_count=6&locale=es&border_radius=8" height="150" alt="Lenguajes principales de AAMoralesC" />
 </div>
 
 ---
