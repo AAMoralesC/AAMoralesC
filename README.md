@@ -5,7 +5,7 @@
 ### **Ingeniero en Informática | Backend & Full Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresmoralesc)
-[![Portafolio](https://img.shields.io/badge/moralesdev.cl-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://moralesdev.cl/)
+[![Portafolio](https://img.shields.io/badge/portfolio.moralesdev.cl-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.moralesdev.cl/)
 [![Email](https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@dominio.com)
 
 ---
