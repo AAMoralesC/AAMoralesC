@@ -81,5 +81,5 @@
 ---
 
 <div align="center">
-  <sub>Diseñado y actualizado por Andrés Morales · <a href="https://moralesdev.cl">moralesdev.cl</a></sub>
+  <sub>Diseñado y actualizado por Andrés Morales · <a href="https://portfolio.moralesdev.cl">moralesdev.cl</a></sub>
 </div>
