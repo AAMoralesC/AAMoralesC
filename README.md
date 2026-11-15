@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🏢 **Desarrollador Odoo Fullstack** en **Mobilize** (Odoo Official Partner): mantengo y optimizo soluciones existentes y desarrollo funcionalidades nuevas para clientes.
+- 🏢 **Desarrollador Odoo Fullstack** en **Mobilize** (Odoo Official Partner): módulos personalizados en **Odoo 17, 18 y 19** — modelos y ORM en Python, vistas **XML/QWeb**, componentes **OWL**, integraciones con sistemas externos, **QA** y **pasos a producción**.
 - 🎓 Ingeniero en Informática titulado de **Duoc UC**, mención en Gestión de Proyectos.
 - 💻 Foco **backend**: Odoo (ORM, XML/QWeb), Python, APIs REST y PostgreSQL.
 - 🔐 Certificado en ciberseguridad (**LCSPC**, **CEHPC**) y con formación de **Google** y **Anthropic** en IA.
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
+<sub><b>Odoo 17 · 18 · 19</b> — ORM · XML/QWeb · OWL · Integraciones · QA · Pasos a producción</sub>
 
 **Frontend**
 <p>
