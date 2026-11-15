@@ -79,7 +79,7 @@
 | Proyecto | Qué resuelve | Stack |
 |---|---|---|
 | [**Kutral**](https://github.com/AAMoralesC/Kutral) | Bot de Discord modular con IA autónoma (Tool Calling), música, XP y moderación. | `Python` `discord.py` `Llama 3` `Groq` `SQLite` |
-| [**GitEz**](https://github.com/AAMoralesC/GitEz) | CLI que analiza el staging y sugiere mensajes de commit bajo Conventional Commits, 100% local. | `Python` `Typer` `Rich` |
+| [**GitEz**](https://github.com/AAMoralesC/GitEz) [![PyPI](https://img.shields.io/pypi/v/git-ez.svg)](https://pypi.org/project/git-ez/) | CLI que analiza el staging y sugiere mensajes de commit bajo Conventional Commits, 100% local. | `Python` `Typer` `Rich` |
 | [**CiberPyme**](https://github.com/AAMoralesC/CiberPyme) | Diagnóstico de ciberseguridad para PYMES con análisis por IA, roles y reportes PDF. | `Laravel` `MySQL` `OpenAI API` |
 | [**Ferremas**](https://github.com/AAMoralesC/Ferremas) | E-commerce con pasarela de pagos y conversión de divisas en tiempo real. | `Laravel` `MySQL` `API REST` |
 | [**MovieBacklog-API**](https://github.com/AAMoralesC/MovieBacklog-API) | API REST para gestionar películas pendientes. Mi entrada al ecosistema .NET. | `C#` `.NET 10` `API REST` |
