@@ -87,12 +87,6 @@
 
 ---
 
-## 📜 Certificaciones
-
-`AI Agent Manager (AIAM™)` · `Lead Cybersecurity Professional (LCSPC)` · `Ethical Hacking Professional (CEHPC)` · `Scrum Master (SMPC)` · `Claude Code in Action` — Anthropic · `Foundations of Cybersecurity` — Google
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
