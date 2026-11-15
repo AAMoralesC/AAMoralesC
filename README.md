@@ -2,13 +2,13 @@
 
 # 👋 Hola, soy Andrés Morales
 
-### Ingeniero en Informática · Desarrollador Odoo Fullstack
+### Ingeniero en Informática · Odoo Fullstack · IA aplicada
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresmoralesc)
 [![Portafolio](https://img.shields.io/badge/Portafolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.moralesdev.cl)
 [![Email](https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresdremc@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F79F1F&center=true&vCenter=true&width=500&lines=Odoo+%C2%B7+Python+%C2%B7+PostgreSQL;Backend+%26+Full+Stack;Siempre+aprendiendo..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F79F1F&center=true&vCenter=true&width=500&lines=Odoo+17+%C2%B7+18+%C2%B7+19+%C2%B7+Python;IA+aplicada+%C2%B7+Agentes+%C2%B7+LLMs;Backend+%26+Full+Stack" />
 
 </div>
 
@@ -19,9 +19,17 @@
 - 🏢 **Desarrollador Odoo Fullstack** en **Mobilize** (Odoo Official Partner): módulos personalizados en **Odoo 17, 18 y 19** — modelos y ORM en Python, vistas **XML/QWeb**, componentes **OWL**, integraciones con sistemas externos, **QA** y **pasos a producción**.
 - 🎓 Ingeniero en Informática titulado de **Duoc UC**, mención en Gestión de Proyectos.
 - 💻 Foco **backend**: Odoo (ORM, XML/QWeb), Python, APIs REST y PostgreSQL.
-- 🔐 Certificado en ciberseguridad (**LCSPC**, **CEHPC**) y con formación de **Google** y **Anthropic** en IA.
-- 🤖 Integro IA en mi trabajo y en mis proyectos: agentes (OpenCode, Antigravity) y APIs de LLMs (OpenAI, Gemini, Llama 3).
-- 📍 Chile · Abierto a conversar sobre proyectos y nuevas oportunidades.
+- 🔐 Certificado en ciberseguridad (**LCSPC**, **CEHPC**) y con formación de **Google** en IA.
+- 🤝 Abierto a conversar sobre proyectos y nuevas oportunidades · 📍 Chile
+
+---
+
+## 🤖 IA aplicada
+
+- 🧩 **Agentes en el trabajo diario:** desarrollo con **OpenCode** y **Antigravity** sobre código de producción — contexto del proyecto, revisión de diffs y control de lo que se ejecuta.
+- 🛠️ **LLMs dentro del producto:** **Llama 3 con tool calling** en Kutral (el bot decide qué herramienta ejecutar) y **OpenAI** para el análisis de brechas en CiberPyme.
+- 🎯 **Criterio de uso:** en GitEz dejé la IA fuera a propósito; la CLI funciona 100% local y offline.
+- 🎓 **AI Agent Manager (AIAM™)** de CertiProf: diseño, supervisión y escalado de agentes de IA en una organización.
 
 ---
 
@@ -42,9 +50,9 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 **Bases de datos & Herramientas**
@@ -60,7 +68,8 @@
 <p>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentes_de_IA-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
 ---
@@ -80,7 +89,7 @@
 
 ## 📜 Certificaciones
 
-`Lead Cybersecurity Professional (LCSPC)` · `Ethical Hacking Professional (CEHPC)` · `Scrum Master (SMPC)` · `Claude Code in Action` — Anthropic · `Foundations of Cybersecurity` — Google
+`AI Agent Manager (AIAM™)` · `Lead Cybersecurity Professional (LCSPC)` · `Ethical Hacking Professional (CEHPC)` · `Scrum Master (SMPC)` · `Claude Code in Action` — Anthropic · `Foundations of Cybersecurity` — Google
 
 ---
 
