@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Andr%C3%A9s%20Morales&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Odoo%20Fullstack%20%C2%B7%20IA%20aplicada%20%C2%B7%20Backend&descAlignY=60&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00be62,100:0F172A&height=220&section=header&text=Andr%C3%A9s%20Morales&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Odoo%20Fullstack%20%C2%B7%20IA%20aplicada%20%C2%B7%20Backend&descAlignY=60&descSize=20" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&width=640&lines=Odoo+17+%C2%B7+18+%C2%B7+19+%C2%B7+Python;IA+aplicada+%C2%B7+Agentes+%C2%B7+LLMs;Backend+%26+Full+Stack" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=00be62&center=true&vCenter=true&width=640&lines=Odoo+17+%C2%B7+18+%C2%B7+19+%C2%B7+Python;IA+aplicada+%C2%B7+Agentes+%C2%B7+LLMs;Backend+%26+Full+Stack" alt="typing" />
 
 <br />
 
@@ -34,7 +34,7 @@ Desarrollador Odoo Fullstack en **Mobilize** (Odoo Official Partner): módulos p
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,laravel,dotnet,django,ts,js,tailwind,sass,css,postgres,mysql,git,linux&perline=7" alt="stack" />
+    <img src="https://skillicons.dev/icons?i=python,php,laravel,dotnet,django,ts,js,tailwind,sass,css,postgres,mysql,git,linux&perline=7&theme=dark" alt="stack" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@ Desarrollador Odoo Fullstack en **Mobilize** (Odoo Official Partner): módulos p
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:6366f1&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00be62,50:0F172A,100:0F172A&height=120&section=footer" width="100%" alt="footer" />
 
 <sub>Diseñado y actualizado por Andrés Morales · <a href="https://portfolio.moralesdev.cl">portfolio.moralesdev.cl</a></sub>
 
