@@ -58,6 +58,7 @@ Desarrollador Odoo Fullstack en **Mobilize** (Odoo Official Partner): módulos p
 | [CiberPyme](https://github.com/AAMoralesC/CiberPyme) | Diagnóstico de ciberseguridad para PYMES con análisis por IA, roles y reportes PDF. | Laravel · MySQL · OpenAI API |
 | [Ferremas](https://github.com/AAMoralesC/Ferremas) | E-commerce con pasarela de pagos y conversión de divisas en tiempo real. | Laravel · MySQL · API REST |
 | [MovieBacklog-API](https://github.com/AAMoralesC/MovieBacklog-API) | API REST para gestionar películas pendientes. Mi entrada al ecosistema .NET. | C# · .NET 10 · API REST |
+| [odoo-mcp](https://github.com/AAMoralesC/odoo-mcp) | Servidor MCP para consultar y operar Odoo desde un agente de IA. | Python · MCP · Odoo · PostgreSQL |
 | [Portfolio](https://github.com/AAMoralesC/Portfolio) | Portafolio personal: bilingüe, tema claro/oscuro y animaciones. [Demo](https://portfolio.moralesdev.cl) | React · TypeScript · Tailwind · Vite |
 
 ---
