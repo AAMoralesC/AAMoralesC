@@ -64,7 +64,7 @@ Desarrollador Odoo Fullstack en **Mobilize** (Odoo Official Partner): módulos p
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00be62,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
 
 <sub>Diseñado y actualizado por Andrés Morales · <a href="https://portfolio.moralesdev.cl">portfolio.moralesdev.cl</a></sub>
 
